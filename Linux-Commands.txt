@@ -1,0 +1,18 @@
+cd- change directory
+pwd- present working directory
+ls-list files and directories
+ls -ltr list with properties
+touch
+free -g: looking into memory
+df -h disk size
+nproc=cpu usage
+top complete cpu, memory usage
+man documentation command
+cat print content of file
+chmod grant permissions
+history commands executed
+mkdir create directory
+rm remove file
+rmdir remove directory
+
+
